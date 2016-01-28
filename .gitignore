@@ -1,0 +1,6 @@
+*.csv
+*.xls
+*.xlsx
+*.odt
+.Idea/
+*.sw[pmno]
